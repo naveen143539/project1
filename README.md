@@ -1,12 +1,12 @@
 # ✨  Poly Clinic  ✨
 
-This is a web based application developed for health related based website in india.
+This is a web based application and Responsive Design developed for health related based website in india.
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://orange-field-040182f00.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/gzfwwNrybTA
+**Project Link** -https://jolly-tree-07c882a00.2.azurestaticapps.net
+**project demo video link** - 
 
 ## Azure technologies used for Project
 
@@ -46,7 +46,8 @@ This is a web based application developed for health related based website in in
 
 
 ### health bot -
-![2022-11-22 (25)](https://user-images.githubusercontent.com/114321345/203262388-11c07d33-b110-4edc-859d-268ab7a02bfb.png)
+![2022-12-28 (1)](https://user-images.githubusercontent.com/114321345/209806368-8a7d49c6-f10b-49fe-979e-239e208bc3b3.png)
+
 
 
 
