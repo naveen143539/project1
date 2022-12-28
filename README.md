@@ -6,7 +6,7 @@ This is a web based application and Responsive Design developed for health relat
 
 
 **Project Link** -https://jolly-tree-07c882a00.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/hbGZbDn4fdI
 
 ## Azure technologies used for Project
 
